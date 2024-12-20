@@ -1,2 +1,2 @@
 # Kreator-JavaSctript
-Stworzyłem prosty kreator plików JavaScript w bat. Zezwalam na pełną modyfikację i udostępnianie projektu.
+Projek pobiera z internetu Node.js i tworzy folder z podstawowywmi rzeczami potrzebnymi do działania w JavaScript
